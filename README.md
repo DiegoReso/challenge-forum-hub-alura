@@ -10,8 +10,6 @@
 
 **Licença:** [![License: MIT](https://img.shields.io/badge/License-MIT-gree.svg)](https://opensource.org/licenses/MIT)
 
-**Contato:** André Gonçalves Vidal (vidalsuporte@gmail.com)
-
 **URL Base do Servidor:** http://localhost:8080
 ## Tecnologias Utilizadas
 
@@ -58,7 +56,7 @@ ForumHub/
 ├── src/
 │   ├── main/
 │   │   ├── java/
-│   │   │   └── com.vidalsuporte.forumhub/
+│   │   │   └── com.diegoreso.forumhub/
 │   │   │       ├── controller/
 │   │   │       │   ├── springdoc/
 │   │   │       │   │   ├── AutenticacaoController.java
