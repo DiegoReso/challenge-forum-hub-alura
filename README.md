@@ -1,11 +1,6 @@
 # API Forum Hub
 
  A Forum Hub API é um projeto desenvolvido no âmbito do Desafio de Codificação promovido pelo programa Oracle Next Education (ONE). Essa API fornece uma plataforma robusta para gerenciar perfis, cursos, tópicos, respostas e usuários. Suas funcionalidades incluem operações CRUD completas, autenticação e autorizção de perfil baseada em JWT (JSON Web Token) e suporte à paginação em recursos que retornam Todos os elementos cadastrados.
- 
-## Desenvolvedor
-
-- [André Gonçalves Vidal](https://github.com/vidalsuporte)
-
 
 ## Informações Gerais
 
